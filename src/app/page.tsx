@@ -2,7 +2,7 @@ import React from 'react';
 import Hero from '../components/UI/Home/Hero';
 import About from '../components/UI/Home/About';
 import Skills from '../components/UI/Home/Skills';
-import Companies from '../components/UI/Home/Companies';
+// import Companies from '../components/UI/Home/Companies';
 import Projects from '../components/UI/Home/Projects';
 import Image from 'next/image';
 

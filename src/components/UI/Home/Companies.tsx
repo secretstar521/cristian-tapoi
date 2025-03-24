@@ -9,7 +9,7 @@ function Companies() {
         className="mx-auto text-[18px] md:text-[22px] lg:text-[24px] block mb-[25px] w-fit text-center"
         style={{ textShadow: '1px 1px 10px #ffffff9b' }}
       >
-        Some of the companies I've worked with...
+        Some of the companies
       </h2>
       <div className={'w-full flex items-center overflow-x-scroll lg:gap-[20px] gap-[14px] m-0 bg-[#0e0e14]'}>
         {logos.map((src) => (

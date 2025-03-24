@@ -23,7 +23,7 @@ function Hero() {
       </div> */}
 
       <div className={'lg:ml-[40px] flex flex-col items-center lg:items-start'}>
-        <h1 className="text-[34px] lg:text-[78px] lg:mb-[3px]">I'm Cristian Tapoi,</h1>
+        <h1 className="text-[34px] lg:text-[78px] lg:mb-[3px]">I am Cristian Tapoi,</h1>
         <TextWithBackground className="text-[34px] lg:text-[78px]">
           <h1>A Software Engineer.</h1>
         </TextWithBackground>
