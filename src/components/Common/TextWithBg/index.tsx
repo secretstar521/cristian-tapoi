@@ -5,7 +5,7 @@ const TextWithBackground = ({ children, className }: { children: React.ReactNode
     <div
       className={`text-transparent bg-clip-text inline-block ${className ? className : ''}`}
       style={{
-        background: "url('/images/colorPalette.png') no-repeat center center",
+        background: "url('/images/colorPalette.svg') no-repeat center center",
         backgroundSize: '100%',
         WebkitBackgroundClip: 'text',
       }}
