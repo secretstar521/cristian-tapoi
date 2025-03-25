@@ -149,11 +149,11 @@ export const showcases = [
     type: 'Via_Insanustu',
     myRole: [`Worked on figma-plugin based react app to improve UI and functionalities.`],
     images: [
-      '/images/companies/Copycat/1.svg',
-      '/images/companies/Copycat/2.svg',
-      '/images/companies/Copycat/3.svg',
-      '/images/companies/Copycat/4.svg',
-      '/images/companies/Copycat/5.svg',
+      '/images/companies/Copycat/1.webp',
+      '/images/companies/Copycat/2.webp',
+      '/images/companies/Copycat/3.webp',
+      '/images/companies/Copycat/4.webp',
+      '/images/companies/Copycat/5.webp',
     ],
   },
   {
