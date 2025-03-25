@@ -18,7 +18,7 @@ function Hero() {
         }
       >
         <div className="overflow-hidden relative rounded-[50%] w-[97%] h-[97%] border border-solid border-white">
-          <Image draggable={false} src="/images/profile.svg" fill alt={'Sam Avatar'} />
+          <Image draggable={false} src="/images/profile.webp" fill alt={'Sam Avatar'} />
         </div>
       </div> */}
 

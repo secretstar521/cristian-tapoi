@@ -15,7 +15,7 @@ const Icon = ({ name, stroke, width, height, style, fill }: IconProps): ReactEle
   useEffect(() => {
     const fetchSvg = async (): Promise<void> => {
       try {
-        const response = await fetch(`/icons/${name}.svg`);
+        const response = await fetch(`/icons/${name}.webp`);
         const svgText = await response.text();
         setSvgContent(svgText);
       } catch (error) {
